@@ -1,0 +1,1 @@
+console.log("Meu segundo arquivo em JavaScript.");
